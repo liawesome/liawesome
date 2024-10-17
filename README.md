@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my personal project](https://github.com/liawesome/hike-yo-way.git)
 
-- 🌱 I’m currently learning **TypeScript, Redux, Microservices**
+- 🌱 I’m currently learning **Microservices**
 
 <p align="left">
 </p>
